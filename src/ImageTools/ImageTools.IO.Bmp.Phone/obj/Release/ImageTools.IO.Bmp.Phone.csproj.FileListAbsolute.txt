@@ -1,0 +1,9 @@
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Bmp.XML
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Bmp.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Bmp.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Bmp.dll.CodeAnalysisLog.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Bmp.dll.lastcodeanalysissucceeded
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.IO.Bmp.Phone\obj\Release\ImageTools.IO.Bmp.Phone.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.IO.Bmp.Phone\obj\Release\ImageTools.IO.Bmp.rewritten
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.IO.Bmp.Phone\obj\Release\ImageTools.IO.Bmp.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.IO.Bmp.Phone\obj\Release\ImageTools.IO.Bmp.pdb

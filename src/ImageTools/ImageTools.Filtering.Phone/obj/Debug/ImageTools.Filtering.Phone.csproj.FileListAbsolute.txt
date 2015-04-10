@@ -1,0 +1,18 @@
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Filtering.XML
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Filtering.dll
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Filtering.pdb
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Filtering.dll.CodeAnalysisLog.xml
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Filtering.dll.lastcodeanalysissucceeded
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Filtering.Phone\obj\Debug\ImageTools.Filtering.Phone.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Filtering.Phone\obj\Debug\ImageTools.Filtering.rewritten
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Filtering.Phone\obj\Debug\ImageTools.Filtering.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Filtering.Phone\obj\Debug\ImageTools.Filtering.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Filtering.XML
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Filtering.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Filtering.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Filtering.dll.CodeAnalysisLog.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Filtering.dll.lastcodeanalysissucceeded
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Filtering.Phone\obj\Debug\ImageTools.Filtering.Phone.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Filtering.Phone\obj\Debug\ImageTools.Filtering.rewritten
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Filtering.Phone\obj\Debug\ImageTools.Filtering.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Filtering.Phone\obj\Debug\ImageTools.Filtering.pdb

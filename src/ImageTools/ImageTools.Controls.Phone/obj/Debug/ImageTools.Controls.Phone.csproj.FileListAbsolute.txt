@@ -1,0 +1,20 @@
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Controls.XML
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Controls.dll
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Controls.pdb
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Controls.dll.CodeAnalysisLog.xml
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.Controls.dll.lastcodeanalysissucceeded
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.Phone.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.g.resources
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.rewritten
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Controls.XML
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Controls.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Controls.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Controls.dll.CodeAnalysisLog.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.Controls.dll.lastcodeanalysissucceeded
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.Phone.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.g.resources
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.rewritten
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Controls.Phone\obj\Debug\ImageTools.Controls.pdb

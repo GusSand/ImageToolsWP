@@ -1,0 +1,18 @@
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.IO.Png.XML
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.IO.Png.dll
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.IO.Png.pdb
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.IO.Png.dll.CodeAnalysisLog.xml
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.IO.Png.dll.lastcodeanalysissucceeded
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.IO.Png.Phone\obj\Debug\ImageTools.IO.Png.Phone.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.IO.Png.Phone\obj\Debug\ImageTools.IO.Png.rewritten
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.IO.Png.Phone\obj\Debug\ImageTools.IO.Png.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.IO.Png.Phone\obj\Debug\ImageTools.IO.Png.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Png.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Png.XML
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.IO.Png.Phone\obj\Debug\ImageTools.IO.Png.Phone.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.IO.Png.Phone\obj\Debug\ImageTools.IO.Png.rewritten
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.IO.Png.Phone\obj\Debug\ImageTools.IO.Png.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.IO.Png.Phone\obj\Debug\ImageTools.IO.Png.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Png.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Png.dll.CodeAnalysisLog.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.IO.Png.dll.lastcodeanalysissucceeded

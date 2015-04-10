@@ -1,0 +1,72 @@
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ApplicationIcon.png
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\Background.png
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Demos.Phone.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Demos.Phone.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\AppManifest.xaml
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Demos.Phone_Debug_AnyCPU.xap
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Controls.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Filtering.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Bmp.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Gif.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Png.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Utils.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ICSharpCode.SharpZLib.Phone.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Controls.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Controls.xml
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Filtering.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Filtering.xml
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Bmp.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Bmp.xml
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Gif.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Gif.xml
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Png.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Png.xml
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.xml
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Utils.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Utils.xml
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ICSharpCode.SharpZLib.Phone.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\App.g.cs
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\MainPage.g.cs
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.g.resources
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.rewritten
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\XapCacheFile.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ApplicationIcon.png
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\Background.png
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Demos.Phone.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Demos.Phone.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\AppManifest.xaml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Demos.Phone_Debug_AnyCPU.xap
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Controls.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Gif.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Utils.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Png.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ICSharpCode.SharpZLib.Phone.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Controls.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Controls.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Gif.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Gif.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Utils.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.Utils.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Png.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ICSharpCode.SharpZLib.Phone.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\App.g.cs
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\MainPage.g.cs
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.g.resources
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.rewritten
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\ImageTools.Demos.Phone.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\obj\Debug\XapCacheFile.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Phone\Bin\Debug\ImageTools.IO.Png.xml

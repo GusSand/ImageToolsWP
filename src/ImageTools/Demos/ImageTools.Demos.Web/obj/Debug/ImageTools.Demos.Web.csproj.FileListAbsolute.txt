@@ -1,0 +1,5 @@
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\bin\ImageTools.Demos.Web.dll.config
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\bin\ImageTools.Demos.Web.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\bin\ImageTools.Demos.Web.pdb
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\obj\Debug\ImageTools.Demos.Web.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\obj\Debug\ImageTools.Demos.Web.pdb

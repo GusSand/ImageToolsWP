@@ -1,0 +1,6 @@
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\bin\ImageTools.Demos.Web.dll.config
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\bin\ImageTools.Demos.Web.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\bin\ImageTools.Demos.Web.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\obj\Release\ImageTools.Demos.Web.csprojResolveAssemblyReference.cache
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\obj\Release\ImageTools.Demos.Web.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\Demos\ImageTools.Demos.Web\obj\Release\ImageTools.Demos.Web.pdb

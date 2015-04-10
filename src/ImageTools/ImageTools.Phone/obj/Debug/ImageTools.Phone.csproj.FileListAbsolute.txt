@@ -1,0 +1,16 @@
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.XML
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.dll
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.pdb
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.dll.CodeAnalysisLog.xml
+C:\Users\gussand\Desktop\ImageTools\bin\Phone\ImageTools.dll.lastcodeanalysissucceeded
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Phone\obj\Debug\ImageTools.rewritten
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Phone\obj\Debug\ImageTools.dll
+C:\Users\gussand\Desktop\ImageTools\src\ImageTools\ImageTools.Phone\obj\Debug\ImageTools.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.XML
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.pdb
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.dll.CodeAnalysisLog.xml
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\bin\Phone\ImageTools.dll.lastcodeanalysissucceeded
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Phone\obj\Debug\ImageTools.rewritten
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Phone\obj\Debug\ImageTools.dll
+C:\Users\gussand\Dropbox (GroupMe)\dev\ImageTools\src\ImageTools\ImageTools.Phone\obj\Debug\ImageTools.pdb
